@@ -1,7 +1,7 @@
 # Configurations
-title:            notebook
-longtitle:        notebook
-author:           kang shuangzhu
+title:            ksz_notebook
+longtitle:        ksz_notebook
+author:           kangshuangzhu
 email:            ksz15@tsinghua.org.cn
 description: >
   Build Jekyll site with the GitBook style.
