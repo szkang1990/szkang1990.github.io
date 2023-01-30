@@ -1,6 +1,6 @@
 ---
 title: Contact
-author: Tao He
+author: kang shuangzhu
 date: 2022-02-05
 category: Jekyll
 layout: post
